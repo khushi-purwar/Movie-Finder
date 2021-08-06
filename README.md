@@ -45,18 +45,18 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 
 Initially, the UI looks like:
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/dev-kp/react-movie-app/Screenshots/ss1.png?raw=true" />
+<img src="https://github.com/khushi-purwar/Movie-Finder/blob/master/Screenshots/ss1.png" />
 
 Type your movie in the search bar
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/dev-kp/react-movie-app/Screenshots/ss2.png?raw=true" />
+<img src="https://github.com/khushi-purwar/Movie-Finder/blob/master/Screenshots/ss2.png" />
 
 After clicking on any movie, first it will show the loader and then the movie detailed information
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/dev-kp/react-movie-app/Screenshots/ss3.png?raw=true" />
+<img src="https://github.com/khushi-purwar/Movie-Finder/blob/master/Screenshots/ss3.png" />
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/dev-kp/react-movie-app/Screenshots/ss4.png?raw=true" />
+<img src="https://github.com/khushi-purwar/Movie-Finder/blob/master/Screenshots/ss4.png" />
 
 ### Live Demo
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/dev-kp/react-movie-app/Screenshots/demo.gif?raw=true" />
+<img src="https://github.com/khushi-purwar/Movie-Finder/blob/master/Screenshots/demo.gif" />
