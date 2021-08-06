@@ -60,3 +60,7 @@ After clicking on any movie, first it will show the loader and then the movie de
 ### Live Demo
 
 <img src="https://github.com/khushi-purwar/Movie-Finder/blob/master/Screenshots/demo.gif" />
+
+## Visit Website
+
+https://react-movie-finder-app.vercel.app/
